@@ -1,0 +1,3 @@
+clear
+
+norminette $1
